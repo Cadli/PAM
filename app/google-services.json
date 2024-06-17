@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249792423262",
+    "project_id": "amigurumitime-2024",
+    "storage_bucket": "amigurumitime-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249792423262:android:5a3552f8bf1ca58ad6dbcf",
+        "android_client_info": {
+          "package_name": "pl.edu.uwr.pum.amigurumitime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-yNouypJmpYIfLLrASSo_TN-GNH3inw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
